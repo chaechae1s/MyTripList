@@ -6,10 +6,10 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<c:import url="./temp/head.jsp"></c:import>
+<c:import url="./temp/common.jsp"></c:import>
 </head>
 <body>
-	<c:import url="./temp/nav.jsp"></c:import>
+	<c:import url="./temp/header.jsp"></c:import>
 	<h1>home</h1>
 	<h2>안녕하세요</h2>
 </body>
